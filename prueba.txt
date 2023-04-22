@@ -1,4 +1,6 @@
 
-
+Estoy intentando crear un conflicto
 hola querido git
 hice otro cambio
+supongo que ya cree el conflicto
+
