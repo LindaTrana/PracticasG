@@ -1,3 +1,5 @@
 hola mali
 estoy usando vim
 
+HACIENDO STASH, MODIFICARE : 
+PRUEBA Y STILO, ADEMAS DE ESTE ARCHIVO.
