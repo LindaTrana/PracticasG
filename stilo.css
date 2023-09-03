@@ -4,3 +4,7 @@ body{
     text-align: center;
     border: 10px;
 }
+
+div{
+    background-color: gainsboro;
+}
