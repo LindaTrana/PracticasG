@@ -1,7 +1,6 @@
 console.log('Hola content')
 
-function Camilla(){
-  return 1 + 2
-}
+let frutas = ['Arandanos','Fresa','Ciruela','Manzana']
 
-console.log(Camilla())
+let nueva = frutas.splice(1)
+console.log(nueva)
