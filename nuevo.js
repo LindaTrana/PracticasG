@@ -14,3 +14,5 @@ class Nombre {
 
 let nuevoNombre = new Nombre()
 console.log(nuevoNombre.apellido='Raione')
+
+let numero = [];
