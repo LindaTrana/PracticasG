@@ -1,3 +1,4 @@
 hola mali
 estoy usando vim
+analizando el git commmit ammend
 
