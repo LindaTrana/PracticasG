@@ -1,2 +1,4 @@
 No he podido con el conflicto
 
+26/02/24
+voy a olvidar este archivo y luego lo agregare con git --emmend--no-edit

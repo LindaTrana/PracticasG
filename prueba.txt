@@ -5,3 +5,9 @@ hice otro cambio
 supongo que ya cree el conflicto
 Ultimo intento dl conflicto
 
+26/02/24
+--haciendo pruebas del git commit --amend--no-edit
+modificando este archivo y dato.txt
+
+
+
