@@ -16,3 +16,13 @@ let nuevoNombre = new Nombre()
 console.log(nuevoNombre.apellido='Raione')
 
 let numero = [];
+
+frutas = [
+  {
+    Nombre:'Uva',
+    especie:{av:'rut'},
+    categoria: 'Sin semilla',
+    caracteristicas:['con semilla','Morado','redonda']
+  }
+  ]
+
